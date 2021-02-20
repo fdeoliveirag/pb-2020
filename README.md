@@ -1,3 +1,4 @@
-# Mapa do segundo turno das eleições municipais em João Pessoa - PB
+# Eleições municipais em João Pessoa - PB
+## Mapa do 2° turno
 
 https://fdeoliveirag.github.io/pb-2020/
